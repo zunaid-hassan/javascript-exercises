@@ -5,6 +5,7 @@ const fibonacci = function (a) {
     return 1;
   } else {
     let index = a - 1;
+    let fibArr = [1, 1];
   }
 };
 
